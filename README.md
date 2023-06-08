@@ -1,1 +1,1 @@
-Please note that this is an script that helps extract key metrics information from log files and present the result in visualized scatterplots
+Hello, Please note that this is an script that helps extract key metrics information from log files and present the result in visualized scatterplots
